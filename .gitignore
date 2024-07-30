@@ -1,0 +1,9 @@
+.idea/
+**/__pycache__/
+.DS_Store
+.vscode/
+venv/
+test[0-9].py
+/logs
+#*/settings.py
+test*.py
